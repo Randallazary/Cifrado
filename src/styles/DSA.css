@@ -1,0 +1,38 @@
+/* src/styles/DSA.css */
+.dsa {
+    background-color: #e0f7fa;
+    border: 1px solid #b2ebf2;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.dsa h2 {
+    color: #00796b;
+}
+
+.dsa input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #b2ebf2;
+    border-radius: 4px;
+}
+
+.dsa button {
+    background-color: #00838f;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.dsa button:hover {
+    background-color: #00796b;
+}
+
+.dsa p {
+    margin-top: 10px;
+    color: #005b5c;
+}

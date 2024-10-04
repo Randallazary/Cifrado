@@ -1,0 +1,38 @@
+/* src/styles/Tiger.css */
+.tiger {
+    background-color: #fff3e0;
+    border: 1px solid #ffcc80;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.tiger h2 {
+    color: #e65100;
+}
+
+.tiger input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ffcc80;
+    border-radius: 4px;
+}
+
+.tiger button {
+    background-color: #ff9800;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.tiger button:hover {
+    background-color: #fb8c00;
+}
+
+.tiger p {
+    margin-top: 10px;
+    color: #bf360c;
+}

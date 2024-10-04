@@ -1,0 +1,38 @@
+/* src/styles/XTEA.css */
+.xtea {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.xtea h2 {
+    color: #333;
+}
+
+.xtea input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.xtea button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.xtea button:hover {
+    background-color: #45a049;
+}
+
+.xtea p {
+    margin-top: 10px;
+    color: #007BFF;
+}
